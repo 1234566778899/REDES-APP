@@ -53,7 +53,8 @@ function resultado() {
     // redes.push(r4);
     // redes.push(r5);
 
-    let suma = 0;
+    let suma = ip4;
+
     let combinacion = [];
     let validar = [];
 

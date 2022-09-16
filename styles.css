@@ -6,3 +6,6 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
 }
+.cont-table{
+    overflow-x: auto;
+}
